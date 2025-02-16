@@ -1,1 +1,3 @@
 pip install yt-dlp
+pip install yt-dlp requests beautifulsoup4
+pip install yt-dlp browser-cookie3
